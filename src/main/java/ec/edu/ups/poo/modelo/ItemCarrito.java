@@ -1,4 +1,4 @@
-package ec.edu.ups.poo;
+package ec.edu.ups.poo.modelo;
 
 import java.util.Objects;
 
